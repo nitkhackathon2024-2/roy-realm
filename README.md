@@ -1,1 +1,2 @@
 # roy-realm
+An interactive simulation for the finance guide for people of all ages with a game which is based on the consequences by the choices they have done when challenges were posed between real life problems and their preferences(passions).
